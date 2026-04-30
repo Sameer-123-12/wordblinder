@@ -1,0 +1,14 @@
+{
+    "levels": [
+        {
+           "bus_images": [
+                "pkg:/data/level_1/bus1.png",
+                "pkg:/data/level_1/bus2.png",
+                "pkg:/data/level_1/bus3.png",
+                "pkg:/data/level_1/bus4.png"
+            ],
+            "characters": ["S", "U", "J", "B", "U", "Z", "K", "L"],
+            "target_word": ["B", "U", "S"]
+        }
+    ]
+}
