@@ -1,5 +1,4 @@
-{
-    "levels": [
+[
         { 
             "characters": ["S", "U", "J", "B", "U", "Z", "K", "L"],
             "target_word": ["B", "U", "S"]    
@@ -17,4 +16,3 @@
             "target_word": ["B", "U", "T", "T","E","R","F","L","Y"]
         }
     ]
-}
