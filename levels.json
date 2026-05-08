@@ -1,8 +1,9 @@
 {
     "levels": [
         {
-            "characters": ["S", "U", "J", "B", "U", "Z", "K", "L"],
-            "target_word": ["B", "U", "S"]
+             "characters": ["F", "U", "O", "B", "U", "Z", "K", "L", "I", "E", "P", "M","T","T","Y","R"],
+            "target_word": ["B", "U", "T", "T","E","R","F","L","Y"]
+           
         },
         {
             "characters": ["S", "U", "O", "B", "U", "Z", "K", "L", "I", "E", "P", "M"],
@@ -13,8 +14,9 @@
             "target_word": ["C", "H", "E", "E","T","A","H"]
         },
             {
-            "characters": ["F", "U", "O", "B", "U", "Z", "K", "L", "I", "E", "P", "M","T","T","Y","R"],
-            "target_word": ["B", "U", "T", "T","E","R","F","L","Y"]
+           
+            "characters": ["S", "U", "J", "B", "U", "Z", "K", "L"],
+            "target_word": ["B", "U", "S"]
         }
     ]
 }
